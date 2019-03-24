@@ -11,6 +11,9 @@ namespace ProyectoEnGitHub
         static void Main(string[] args)
         {
             Console.WriteLine("Hola Mundo!");
+            string ingreso = Console.ReadLine();
+            Console.Write(ingreso);
+            Console.ReadKey();
         }
     }
 }
