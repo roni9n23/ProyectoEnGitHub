@@ -56,6 +56,6 @@ namespace ProyectoEnGitHub
             }
             while (string.IsNullOrWhiteSpace(ingreso3));
 
-        }
+        }   
     }
 }
